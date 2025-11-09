@@ -59,8 +59,6 @@ All details, feature descriptions, and visualizations are documented in the acco
 | `last.py`, `last2.py` | Final testing or evaluation scripts. |
 | `git.py`, `git2.py` | Auxiliary or version helper scripts. |
 
-> 💡 Tip: Each script should include a short docstring or CLI example (using `argparse`) to help others reproduce the results. :contentReference[oaicite:1]{index=1}
-
 ---
 
 ## ⚙️ Setup & Usage
@@ -82,44 +80,11 @@ Prepare the dataset
 
 Download the CTU-13 dataset (see references in the PDF report). 
 
-Assigment
-
 Place it in the data/ directory (large files are ignored by Git).
 
 Run the main script
 
 python src/ctu13/main.py --data-path ./data/sample.binetflow
-
-🧮 Dependencies
-
-List of minimal requirements (in requirements.txt):
-
-pandas
-numpy
-matplotlib
-scikit-learn
-
-🧰 .gitignore Example
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-venv/
-.venv/
-
-# Data / large files
-data/
-*.binetflow
-*.pcap
-*.xz
-*.csv
-
-# Jupyter
-.ipynb_checkpoints
-
-# OS
-.DS_Store
-*.log
 
 🧑‍💻 Authors
 
