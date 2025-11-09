@@ -129,20 +129,9 @@ Ahmet Yiğit Özkoca
 
 Yusuf Eskiocak
 
-(and team members as appropriate)
-
-📜 License
-
-This project is distributed under the MIT License.
-See the LICENSE file for details.
-
 📚 References
 
 Project Report: reports/Project_Report.pdf
 Includes dataset description, feature list, graphs, and related works. 
-
-Assigment
-
 Dataset: CTU-13 — Stratosphere Lab, Czech Technical University in Prague.
-(https://www.stratosphereips.org/datasets-ctu13
-)
+(https://www.stratosphereips.org/datasets-ctu13)
