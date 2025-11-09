@@ -10,23 +10,37 @@ This repository was developed collaboratively as part of an academic assignment.
 cybersecurity-ctu13/
 │
 ├── src/
+
 │ └── ctu13/
+
 │ ├── main.py
+
 │ ├── futureselection.py
+
 │ ├── futureselection2.py
+
 │ ├── fromstart.py
+
 │ ├── git.py
+
 │ ├── git2.py
+
 │ ├── last.py
+
 │ ├── last2.py
+
 │ └── merged.py
 │
 ├── reports/
+
 │ └── Project_Report.pdf
 │
-├── data/ # (ignored in Git) dataset files or samples
+├── data
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
 
 
@@ -65,7 +79,7 @@ All details, feature descriptions, and visualizations are documented in the acco
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<username>/cybersecurity-ctu13.git
+   git clone https://github.com/BeyzaAkgun/cybersecurity-ctu13.git
    cd cybersecurity-ctu13
 
 
@@ -80,7 +94,7 @@ Prepare the dataset
 
 Download the CTU-13 dataset (see references in the PDF report). 
 
-Place it in the data/ directory (large files are ignored by Git).
+Place it in the data/ directory 
 
 Run the main script
 
