@@ -8,7 +8,7 @@ This repository was developed collaboratively as part of an academic assignment.
 ## 📁 Project Structure
 
 cybersecurity-ctu13/
-│
+
 
 ├── src/
 
