@@ -8,40 +8,24 @@ This repository was developed collaboratively as part of an academic assignment.
 ## 📁 Project Structure
 cybersecurity-ctu13/
 │
-│
 ├── src/
-│   │
 │   └── ctu13/
-│       │
 │       ├── main.py
-│       │
 │       ├── futureselection.py
-│       │
 │       ├── futureselection2.py
-│       │
 │       ├── fromstart.py
-│       │
 │       ├── git.py
-│       │
 │       ├── git2.py
-│       │
 │       ├── last.py
-│       │
 │       ├── last2.py
-│       │
 │       └── merged.py
 │
-│
 ├── reports/
-│   │
 │   └── Project_Report.pdf
 │
-├── data/           
-│
+├── data/               
 ├── requirements.txt
-│
 ├── .gitignore
-│
 └── README.md
 
 ## 🔍 Overview
@@ -97,14 +81,6 @@ Place it in the data/ directory
 Run the main script
 
 python src/ctu13/main.py --data-path ./data/sample.binetflow
-
-🧑‍💻 Authors
-
-Beyza Akgün
-
-Ahmet Yiğit Özkoca
-
-Yusuf Eskiocak
 
 📚 References
 
