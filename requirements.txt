@@ -1,0 +1,23 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning & Feature Selection
+scikit-learn
+scikit-plot
+
+# Optional ML & optimization tools
+xgboost
+
+# Network traffic & graph analysis
+pyshark
+networkx
+
+# Utilities
+itertools
+pickle5
+
+# Warnings and system tools (usually built-in, added for completeness)
+warnings

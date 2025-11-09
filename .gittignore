@@ -1,0 +1,21 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+env/
+.venv/
+
+# Data files (CTU-13, pcap, binetflow, etc.)
+data/
+*.binetflow
+*.pcap
+*.xz
+*.csv
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+*.log
