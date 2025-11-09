@@ -10,26 +10,25 @@ This repository was developed collaboratively as part of an academic assignment.
 cybersecurity-ctu13/
 │
 ├── src/
-│   └── ctu13/
-│       ├── main.py
-│       ├── futureselection.py
-│       ├── futureselection2.py
-│       ├── fromstart.py
-│       ├── git.py
-│       ├── git2.py
-│       ├── last.py
-│       ├── last2.py
-│       └── merged.py
+│ └── ctu13/
+│ ├── main.py
+│ ├── futureselection.py
+│ ├── futureselection2.py
+│ ├── fromstart.py
+│ ├── git.py
+│ ├── git2.py
+│ ├── last.py
+│ ├── last2.py
+│ └── merged.py
 │
 ├── reports/
-│   └── Project_Report.pdf
+│ └── Project_Report.pdf
 │
-├── data/                
+├── data/ # dataset folder (ignored in Git)
 │
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
 ---
 
 ## 🔍 Overview
